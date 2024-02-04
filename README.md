@@ -1,4 +1,4 @@
-<![Header](./frontview.jpeg)>
+<![Header](./Text Logo.png)>
 <h1 align="center">CYCLOPS</h1>
 
 An open-source desktop assistant bot working on Large Language Model locally.
