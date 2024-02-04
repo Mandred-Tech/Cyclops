@@ -56,6 +56,7 @@ Link :
 5) Some webscrapping scripts might become obsolete by the time you start making your own bot.
 6) Download the files from the following google drive link because llm models are too large and we were unable to add emotion recognition models as well.
 Link: https://drive.google.com/drive/folders/1X-ubLckjLJAn6dmfQuTygzYcOE_vS-ME?usp=sharing
+7) You can also 3d print the parts using the .stl files provided in the 3D Printing folder.
 
 ## MIT License with Attribution
 
