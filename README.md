@@ -15,34 +15,34 @@ also been made to run locally.
 
 ### Features
 The following are the features that are available for this release:
-1) Idleness Remainder - By default after 30 minutes the bot will give a reminder to get up and stretch.
-2) Emotion Detection - By default after 2 hours the bot will analyze your emotions and check if you are drowsy and perform the necessary actions to wake you up.
-3) User Presence - By default after two minutes the bot will check if you are present in front of the computer. If user is not detected it will lock the system automatically.
-4) News - Scrapes the relevant websites and reads the headlines at the first boot each day.
-5) Note Maker - Create notes and read the previous notes.
-6) Scheduler - Creates and reminds you of you schedules like meetings or reminders.
-7) Curent Time and Date reading
-8) Play Music - Plays music based on four youtube playlists i.e classical, pop, techno and rock.
-9) Camera - Opens the custom camera and takes a picture either manually or by command.
-10) Play Games - At present it can play 2 games one is rock-paper-scissors using camera and other game is hangman.
-11) Image showing - Can show images scrapped from the website if LLM want to show it.
-12) Youtube Player - Based on LLM command can access and play a video on a particular topic.
-13) Timer - Sets a timer for a particular amount of time with a custom message for the timer.
+1) **Idleness Remainder -** By default after 30 minutes the bot will give a reminder to get up and stretch.
+2) **Emotion Detection -** By default after 2 hours the bot will analyze your emotions and check if you are drowsy and perform the necessary actions to wake you up.
+3) **User Presence -** By default after two minutes the bot will check if you are present in front of the computer. If user is not detected it will lock the system automatically.
+4) **News -** Scrapes the relevant websites and reads the headlines at the first boot each day.
+5) **Note Maker -** Create notes and read the previous notes.
+6) **Scheduler -** Creates and reminds you of you schedules like meetings or reminders.
+7) **Curent Time and Date reading**
+8) **Play Music -** Plays music based on four youtube playlists i.e classical, pop, techno and rock.
+9) **Camera -** Opens the custom camera and takes a picture either manually or by command.
+10) **Play Games -** At present it can play 2 games one is rock-paper-scissors using camera and other game is hangman.
+11) **Image showing -** Can show images scrapped from the website if LLM want to show it.
+12) **Youtube Player -** Based on LLM command can access and play a video on a particular topic.
+13) **Timer -** Sets a timer for a particular amount of time with a custom message for the timer.
 
 ### Some Hard Coded Commands
 Some functionalities have been hard coded to improve execution speed and quality, these are:
-1) Cyclops - The wake up word for the bot.
-2) What/Whats/What's the time - To tell the current time.
-3) What/Whats/What's the date - To tell the current date.
-4) Play classical/pop/techno/rock music - To play the respective playlist in the YouTube.
-5) Let's play a game/ Play games - To play games either hangman or rock-paper-scissors.
-6) How do I look - To open the camera module.
-7) Note engine/noting engine - To begin the noting process.
-8) Click a picture/take a picture - To take a picture and save it in the photos taken folder.
-9) What/Whats/What's the room temperature - Shows the room temperature and humidity using the DHT11 sensor.
-10) Typing mode - To take inputs and prompts using keyboard.
-11) Audio mode - To take inputs using mic or speech-to-text.
-12) Shutdown/shut down - To close all engines and terminate the program.
+1) **Cyclops -** The wake up word for the bot.
+2) **What/Whats/What's the time -** To tell the current time.
+3) **What/Whats/What's the date -** To tell the current date.
+4) **Play classical/pop/techno/rock music -** To play the respective playlist in the YouTube.
+5) **Let's play a game/ Play games -** To play games either hangman or rock-paper-scissors.
+6) **How do I look -** To open the camera module.
+7) **Note engine/noting engine -** To begin the noting process.
+8) **Click a picture/take a picture -** To take a picture and save it in the photos taken folder.
+9) **What/Whats/What's the room temperature -** Shows the room temperature and humidity using the DHT11 sensor.
+10) **Typing mode -** To take inputs and prompts using keyboard.
+11)** Audio mode -** To take inputs using mic or speech-to-text.
+12)** Shutdown/shut down -** To close all engines and terminate the program.
 
 ### How to use it
 Check this instructables link to find out how to make your own physical bot and interface it with the software.
