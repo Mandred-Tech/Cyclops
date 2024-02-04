@@ -54,7 +54,7 @@ Link :
 3) Do not change the file structure or names.
 4) Make sure you have atleast 8 gb of RAM in your system.
 5) Some webscrapping scripts might become obsolete by the time you start making your own bot.
-6) Download the files from the following google drive link because llm models are too large.
+6) Download the files from the following google drive link because llm models are too large and we were unable to add emotion recognition models as well.
 Link: https://drive.google.com/drive/folders/1X-ubLckjLJAn6dmfQuTygzYcOE_vS-ME?usp=sharing
 
 ## MIT License with Attribution
