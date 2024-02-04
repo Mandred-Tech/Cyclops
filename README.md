@@ -9,18 +9,18 @@ Video Demonstration and Explanation:
 </p>
 
 ### About
-Our main aim for this bot was to run and integrate the quantized llm models locally instead of using an API. Moreover many functionalities like speech recognition has 
-also been made to run locally.
+Our main aim for this bot was to run and integrate the quantized llm models locally instead of using an API. Moreover many functionalities like speech recognition 
+is also being run locally.
 
 
 ### Features
 The following are the features that are available for this release:
 1) **Idleness Remainder -** By default after 30 minutes the bot will give a reminder to get up and stretch.
-2) **Emotion Detection -** By default after 2 hours the bot will analyze your emotions and check if you are drowsy and perform the necessary actions to wake you up.
+2) **Emotion Detection -** By default after 2 hours the bot will analyze your emotions and also check if you are drowsy and perform the necessary actions to wake you up.
 3) **User Presence -** By default after two minutes the bot will check if you are present in front of the computer. If user is not detected it will lock the system automatically.
 4) **News -** Scrapes the relevant websites and reads the headlines at the first boot each day.
 5) **Note Maker -** Create notes and read the previous notes.
-6) **Scheduler -** Creates and reminds you of you schedules like meetings or reminders.
+6) **Scheduler -** Creates and reminds you of your schedules like meetings or reminders.
 7) **Curent Time and Date reading**
 8) **Play Music -** Plays music based on four youtube playlists i.e classical, pop, techno and rock.
 9) **Camera -** Opens the custom camera and takes a picture either manually or by command.
@@ -45,11 +45,11 @@ Some functionalities have been hard coded to improve execution speed and quality
 12)** Shutdown/shut down -** To close all engines and terminate the program.
 
 ### How to use it
-Check this instructables link to find out how to make your own physical bot and interface it with the software.
+Check this Instructables link to find out how to make your own physical bot and interface it with the software.
 Link :
 
 ### A few keypoints
-1) This software and hardware has been tested and created on Windows 11.
+1) This software and hardware has been tested and created on Windows 11 and Python 3.10
 2) Browser path has to be changed according to the location of the browser you are using.
 3) Do not change the file structure or names.
 4) Make sure you have atleast 8 gb of RAM in your system.
