@@ -1,0 +1,13 @@
+numpy
+opencv-python
+pygame
+requests
+beautifulsoup4
+vosk
+pyaudio
+llama-cpp-python
+pyserial
+ultralytics
+tensorflow
+pyttsx3
+silence_tensorflow
