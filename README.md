@@ -4,7 +4,7 @@ An open-source desktop assistant bot working on Large Language Model locally.
 
 Video Demonstration and Explanation:
 <p align="left">
-<a href="https://youtu.be/jYEJakEAMzM?si=n_CALfYUGUDMKFSB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mandred Tech" height="30" width="40" /></a>
+<a href="https://youtu.be/pLsZuGyLnUM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mandred Tech" height="30" width="40" /></a>
 </p>
 
 ### About
@@ -45,7 +45,8 @@ Some functionalities have been hard coded to improve execution speed and quality
 
 ### How to use it
 Check this Instructables link to find out how to make your own physical bot and interface it with the software.
-Link :
+
+Link : https://www.instructables.com/Cyclops-a-Personal-Desktop-Assistant-Bot/
 
 ### A few keypoints
 1) This software and hardware has been tested and created on Windows 11 and Python 3.10
