@@ -40,8 +40,8 @@ Some functionalities have been hard coded to improve execution speed and quality
 8) **Click a picture/take a picture -** To take a picture and save it in the photos taken folder.
 9) **What/Whats/What's the room temperature -** Shows the room temperature and humidity using the DHT11 sensor.
 10) **Typing mode -** To take inputs and prompts using keyboard.
-11)** Audio mode -** To take inputs using mic or speech-to-text.
-12)** Shutdown/shut down -** To close all engines and terminate the program.
+11)**Audio mode -** To take inputs using mic or speech-to-text.
+12)**Shutdown/shut down -** To close all engines and terminate the program.
 
 ### How to use it
 Check this Instructables link to find out how to make your own physical bot and interface it with the software.
